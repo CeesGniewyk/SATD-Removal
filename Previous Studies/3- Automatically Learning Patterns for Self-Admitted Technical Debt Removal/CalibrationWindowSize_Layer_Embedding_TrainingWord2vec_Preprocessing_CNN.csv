@@ -1,0 +1,81 @@
+CNN_Performance_STOPWORD_REMOVAL,Method Calls,Conditionals,Try-Catch,Method Signature,Return,Other
+Precision,34.44,38.32,17.39,35.00,23.33,57.35
+Recall,13.36,34.45,26.67,28.00,30.43,88.64
+F_measure,19.25,36.28,21.05,31.11,26.42,69.64
+CNN_Performance_NO_PREPROCESSING,Method Calls,Conditionals,Try-Catch,Method Signature,Return,Other
+Precision,40.96,41.75,26.32,38.10,28.00,55.45
+Recall,14.66,36.13,33.33,32.00,30.43,89.38
+F_measure,21.59,38.74,29.41,34.78,29.17,68.44
+CNN_Performance_STEMMING,Method Calls,Conditionals,Try-Catch,Method Signature,Return,Other
+Precision,46.43,46.53,35.71,46.15,37.50,54.00
+Recall,16.81,39.50,33.33,36.00,39.13,89.01
+F_measure,24.68,42.73,34.48,40.45,38.30,67.22
+CNN_Performance_STEMMING_&_STOPWORD_REMOVAL,Method Calls,Conditionals,Try-Catch,Method Signature,Return,Other
+Precision,32.94,35.64,13.33,32.35,20.00,51.90
+Recall,12.07,30.25,13.33,22.00,26.09,84.98
+F_measure,17.67,32.73,13.33,26.19,22.64,64.44
+CNN_Performance_STEMMING_&_EMBEDDING_SIZE_16,Method Calls,Conditionals,Try-Catch,Method Signature,Return,Other
+Precision,37.77,38.12,22.77,36.12,23.11,53.21
+Recall,14.22,35.26,30.88,29.97,29.78,88.11
+F_measure,20.66,36.63,26.21,32.76,26.02,66.35
+CNN_Performance_STEMMING_&_EMBEDDING_SIZE_32,Method Calls,Conditionals,Try-Catch,Method Signature,Return,Other
+Precision,39.87,39.22,23.22,37.38,24.21,54.97
+Recall,14.41,35.64,31.11,30.06,30.78,88.18
+F_measure,21.17,37.34,26.59,33.32,27.10,67.72
+CNN_Performance_STEMMING_&_EMBEDDING_SIZE_64,Method Calls,Conditionals,Try-Catch,Method Signature,Return,Other
+Precision,37.22,39.11,22.97,35.37,22.11,54.67
+Recall,12.51,33.97,29.99,28.78,29.47,86.56
+F_measure,18.73,36.36,26.01,31.74,25.26,67.01
+CNN_Performance_STEMMING_&_EMBEDDING_SIZE_128,Method Calls,Conditionals,Try-Catch,Method Signature,Return,Other
+Precision,35.47,39.06,22.27,33.33,20.97,52.21
+Recall,12.41,33.07,29.18,28.18,28.79,85.47
+F_measure,18.39,35.82,25.26,30.54,24.27,64.82
+CNN_Performance_STEMMING_&_EMBEDDING_SIZE_32_&_KERNEL_1,Method Calls,Conditionals,Try-Catch,Method Signature,Return,Other
+Precision,31.04,36.02,18.12,25.77,14.22,46.22
+Recall,9.22,28.98,24.32,22.19,24.32,79.77
+F_measure,14.22,32.12,20.77,23.85,17.95,58.53
+CNN_Performance_STEMMING_&_EMBEDDING_SIZE_32_&_KERNEL_3,Method Calls,Conditionals,Try-Catch,Method Signature,Return,Other
+Precision,32.15,37.89,20.32,28.22,19.23,49.52
+Recall,11.25,30.02,26.32,24.12,26.54,81.03
+F_measure,16.67,33.50,22.93,26.01,22.30,61.47
+CNN_Performance_STEMMING_&_EMBEDDING_SIZE_32_&_KERNEL_5,Method Calls,Conditionals,Try-Catch,Method Signature,Return,Other
+Precision,35.18,40.22,22.47,31.54,24.06,54.29
+Recall,14.02,33.33,28.59,26.03,28.99,83.45
+F_measure,20.05,36.45,25.16,28.52,26.30,65.78
+CNN_Performance_STEMMING_&_EMBEDDING_SIZE_32_&_KERNEL_7,Method Calls,Conditionals,Try-Catch,Method Signature,Return,Other
+Precision,35.03,39.88,22.27,31.03,23.87,53.88
+Recall,13.77,33.07,28.14,25.44,28.11,83.06
+F_measure,19.77,36.16,24.86,27.96,25.82,65.36
+CNN_Performance_STEMMING_&_EMBEDDING_SIZE_32_&_KERNEL_9,Method Calls,Conditionals,Try-Catch,Method Signature,Return,Other
+Precision,34.11,38.17,21.44,30.17,23.11,53.17
+Recall,13.07,32.64,27.64,24.35,27.44,82.66
+F_measure,18.90,35.19,24.15,26.95,25.09,64.71
+CNN_Performance_STEMMING_&_EMBEDDING_SIZE_32_&_KERNEL_5_&_LAYER_2,Method Calls,Conditionals,Try-Catch,Method Signature,Return,Other
+Precision,36.26,41.56,23.55,33.01,25.78,56.78
+Recall,16.01,35.22,30.12,28.01,30.11,85.47
+F_measure,22.21,38.13,26.43,30.31,27.78,68.23
+CNN_Performance_STEMMING_&_EMBEDDING_SIZE_32_&_KERNEL_5_&_LAYER_4,Method Calls,Conditionals,Try-Catch,Method Signature,Return,Other
+Precision,36.06,41.11,23.14,32.47,25.07,56.09
+Recall,15.55,34.16,29.11,27.37,29.17,84.69
+F_measure,21.73,37.31,25.78,29.70,26.97,67.48
+CNN_Performance_STEMMING_&_EMBEDDING_SIZE_32_&_KERNEL_5_&_LAYER_6,Method Calls,Conditionals,Try-Catch,Method Signature,Return,Other
+Precision,35.44,40.77,22.74,32.04,24.88,55.74
+Recall,15.05,33.88,28.78,26.97,28.47,83.65
+F_measure,21.13,37.01,25.41,29.29,26.55,66.90
+CNN_Performance_STEMMING_&_EMBEDDING_SIZE_32_&_KERNEL_5_&_LAYER_8,Method Calls,Conditionals,Try-Catch,Method Signature,Return,Other
+Precision,35.03,39.88,22.27,31.33,24.09,55.14
+Recall,14.14,33.07,28.14,26.19,27.77,83.09
+F_measure,20.15,36.16,24.86,28.53,25.80,66.29
+CNN_Performance_STEMMING_&_EMBEDDING_SIZE_32_&_KERNEL_5_&_LAYER_10,Method Calls,Conditionals,Try-Catch,Method Signature,Return,Other
+Precision,34.77,39.18,21.62,30.14,23.88,54.76
+Recall,13.77,32.55,27.15,25.44,27.07,82.25
+F_measure,19.73,35.56,24.07,27.59,25.38,65.75
+
+STEMMING + EMBEDDING_SIZE 32 + KERNEL 5 + LAYER 2 + NEURONS 50 + ITERATIONS 500 + WORD2VEC_TRAINED_ON_SATD,Method Calls,Conditionals,Try-Catch,Method Signature,Return,Other
+Precision,40.78,42.06,25.00,39.58,26.47,57.15
+Recall,17.25,35.81,31.97,32.15,31.65,89.97
+F_measure,24.24,38.69,28.06,35.48,28.83,69.90
+STEMMING + EMBEDDING_SIZE 32 + KERNEL 5 + LAYER 2 + NEURONS 50 + ITERATIONS 500 + WORD2VEC_TRAINED_ON_GOOGLE,Method Calls,Conditionals,Try-Catch,Method Signature,Return,Other
+Precision,41.02,42.56,25.55,39.98,26.59,57.75
+Recall,17.33,36.05,32.09,32.33,32.09,90.05
+F_measure,24.37,39.04,28.45,35.75,29.08,70.37
